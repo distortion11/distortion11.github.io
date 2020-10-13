@@ -29,7 +29,7 @@ body {
 }
 
 .page-header a {
-  margin-left: 56px;
+  margin-left: 0px;
   color: #288be6;
   text-decoration: none;
   background-repeat: no-repeat;
@@ -40,6 +40,11 @@ body {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
 }
+.header-vk {
+  padding-left: 30px;
+  background-image: url("img/vk.svg");
+}
+
 
 .header-phone {
   padding-left: 25px;
